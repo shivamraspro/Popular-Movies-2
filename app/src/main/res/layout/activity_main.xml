@@ -1,0 +1,11 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/movielist_fragment"
+    android:name="com.example.shivam.popularmovies2.ui.MovielistFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+<!--<FrameLayout-->
+    <!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:id="@+id/movie_list_container"-->
+    <!--android:background="@android:color/black"-->
+    <!--android:layout_height="match_parent" />-->

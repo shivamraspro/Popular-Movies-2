@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/griditem_poster_imageview"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:adjustViewBounds="true"
+    android:baselineAlignBottom="true"
+    android:paddingBottom="@dimen/poster_padding_bottom"
+    android:paddingLeft="@dimen/poster_padding_left"
+    android:paddingRight="@dimen/poster_padding_right"
+    android:background="@drawable/touch_selector"
+    android:paddingTop="@dimen/poster_padding_top"
+    android:scaleType="fitCenter">
+</ImageView>
